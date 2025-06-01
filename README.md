@@ -36,6 +36,7 @@ Dive empowers swimmers by:
 ## 🎥 MVP 
 We created a landing page and an Advertising video to showcase the Dive experience:
 - 🌐Landing Page:
+  
 ![image](https://github.com/user-attachments/assets/195f63e1-e601-4bf0-980a-90b6cfcda6e5)
 
 - 📽️ [Explainer Video](https://youtu.be/yYAkt9Atbww?si=YRHhnmpmOqVYu4po)
