@@ -3,7 +3,7 @@
 
 ---
 
-# Dive 🏊‍♂️ – AI-Powered Smart Swimming Goggles
+# Dive – AI-Powered Smart Swimming Goggles
 
 ## 📘 Overview  
 **Dive** is an innovative smart goggle solution that enhances swimmer performance and safety using AI. Designed for individual swimmers and institutions, Dive integrates real-time tracking, biometric safety alerts, and a personalized fit via face scanning. The project was developed as part of the *IT Entrepreneurship & Innovation* course at King Saud University.
